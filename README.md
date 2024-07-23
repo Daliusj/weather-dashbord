@@ -1,4 +1,5 @@
-This project is a comprehensive weather dashboard application built with React, created during the early stages of my web development learning journey. It provides users with current weather conditions, long-term and hourly forecasts, and other weather-related data. The key components and functionalities include:
+This project is a comprehensive weather dashboard application built with React, created during the early stages of my web development learning journey.
+It provides users with current weather conditions, long-term and hourly forecasts, and other weather-related data. The key components and functionalities include:
 
 HourlyForecast: Displays weather information for specific hours, including temperature, wind speed, and direction. It also determines day/night time to display appropriate weather icons.
 
