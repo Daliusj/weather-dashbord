@@ -1,0 +1,24 @@
+.parameter-icon {
+  height: 30px;
+  width: 30px;
+  background-size: cover;
+}
+
+.parameter-value {
+  margin: 5px 0px 0px 0px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.parameter-label {
+  margin: 2px 0px 10px 0px;
+  font-size: 11px;
+  font-weight: 500;
+}
+
+.parameter-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
